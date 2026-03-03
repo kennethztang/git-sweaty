@@ -4864,6 +4864,13 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-03-03",
+      "hour": 19,
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10801,6 +10808,15 @@
           "distance": 44102.98828125,
           "elevation_gain": 357.0,
           "moving_time": 4438.0
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "22046401698"
+          ],
+          "count": 1,
+          "distance": 35318.51953125,
+          "elevation_gain": 232.0,
+          "moving_time": 4873.0
         }
       },
       "WeightTraining": {
@@ -10971,7 +10987,7 @@
       }
     }
   },
-  "generated_at": "2026-03-02T15:49:06.845044+00:00",
+  "generated_at": "2026-03-03T15:39:23.263880+00:00",
   "other_bucket": "OtherSports",
   "repo": "kennethztang/git-sweaty",
   "source": "garmin",

@@ -9017,5 +9017,18 @@
     "start_date_local": "2026-03-02T19:36:09",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 35318.51953125,
+    "elevation_gain": 232.0,
+    "id": "22046401698",
+    "moving_time": 4873.0,
+    "name": "Zwift - Coastal Crown Loop in Watopia",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-03-03T19:43:32",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
