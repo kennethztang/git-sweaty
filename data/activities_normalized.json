@@ -9069,5 +9069,31 @@
     "start_date_local": "2026-03-05T18:44:54",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22077132397",
+    "moving_time": 1243.303955078125,
+    "name": "RP D3",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-03-06T11:29:07",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 28272.5,
+    "elevation_gain": 198.0,
+    "id": "22081402466",
+    "moving_time": 4136.0,
+    "name": "Zwift - Watopia",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-03-06T21:07:30",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
