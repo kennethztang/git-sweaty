@@ -9095,5 +9095,31 @@
     "start_date_local": "2026-03-06T21:07:30",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22087236042",
+    "moving_time": 1496.095947265625,
+    "name": "RP D4",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-03-07T10:53:03",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 235.17999267578125,
+    "elevation_gain": 0.0,
+    "id": "22088668759",
+    "moving_time": 252.0,
+    "name": "Pickleball",
+    "raw_activity_type": "pickleball",
+    "raw_type": "pickleball",
+    "start_date_local": "2026-03-07T15:20:19",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
