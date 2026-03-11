@@ -9186,5 +9186,18 @@
     "start_date_local": "2026-03-09T20:07:59",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 35266.171875,
+    "elevation_gain": 254.0,
+    "id": "22137467822",
+    "moving_time": 5069.0,
+    "name": "Zwift - Watopia",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-03-11T19:11:10",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
