@@ -9199,5 +9199,18 @@
     "start_date_local": "2026-03-11T19:11:10",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 53476.1796875,
+    "elevation_gain": 255.0,
+    "id": "22140204741",
+    "moving_time": 7593.0,
+    "name": "Singapore Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-03-11T22:44:58",
+    "type": "Ride",
+    "year": 2026
   }
 ]
