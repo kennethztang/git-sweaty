@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="./site/git-sweaty-logo.svg" alt="git-sweaty-logo" /><br>
+  <sub>
+    (create your own README banner like this
+    <a href="https://github.com/aspain/heatmap-logo">here</a>)
+  </sub>
+</p>
+
 # Workout --> Interactive Dashboard
 
 Turn your Strava and Garmin activities into GitHub-style contribution graphs. Automatically generate a free, interactive dashboard updated daily on GitHub Pages.  
