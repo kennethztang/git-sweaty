@@ -4997,6 +4997,76 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 12,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 18,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 9,
+      "subtype": "pickleball",
+      "type": "Pickleball",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 11,
+      "subtype": "pickleball",
+      "type": "Pickleball",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-30",
+      "hour": 19,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 8,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 22,
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 20,
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 11,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10747,6 +10817,16 @@
           "distance": 3059.22998046875,
           "elevation_gain": 0.0,
           "moving_time": 3543.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "22333034753",
+            "22333208038"
+          ],
+          "count": 2,
+          "distance": 3614.8599853515625,
+          "elevation_gain": 0.0,
+          "moving_time": 3875.0
         }
       },
       "Ride": {
@@ -10814,6 +10894,24 @@
           "distance": 6221.43994140625,
           "elevation_gain": 15.0,
           "moving_time": 2429.0140075683594
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "22314865279"
+          ],
+          "count": 1,
+          "distance": 8053.58984375,
+          "elevation_gain": 34.0,
+          "moving_time": 2992.015998840332
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "22347728179"
+          ],
+          "count": 1,
+          "distance": 4610.89013671875,
+          "elevation_gain": 8.0,
+          "moving_time": 1883.8389892578125
         }
       },
       "VirtualRide": {
@@ -11053,6 +11151,24 @@
           "distance": 35266.171875,
           "elevation_gain": 254.0,
           "moving_time": 5069.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "22361140717"
+          ],
+          "count": 1,
+          "distance": 26126.619140625,
+          "elevation_gain": 186.0,
+          "moving_time": 3683.0
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "22371802646"
+          ],
+          "count": 1,
+          "distance": 42042.21875,
+          "elevation_gain": 589.0,
+          "moving_time": 5329.0
         }
       },
       "WeightTraining": {
@@ -11244,6 +11360,42 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1373.39404296875
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "22312572107"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1230.9010009765625
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "22325654475"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1732.5780029296875
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "22355053465"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1541.3079833984375
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "22378473677"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1856.9239501953125
         }
       },
       "Yoga": {
@@ -11279,7 +11431,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T15:56:01.181105+00:00",
+  "generated_at": "2026-04-02T15:51:53.210504+00:00",
   "other_bucket": "OtherSports",
   "repo": "kennethztang/git-sweaty",
   "source": "garmin",
