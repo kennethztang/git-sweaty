@@ -9524,5 +9524,18 @@
     "start_date_local": "2026-04-10T23:24:33",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 3501.080078125,
+    "elevation_gain": 0.0,
+    "id": "22494896074",
+    "moving_time": 3931.0,
+    "name": "Singapore Pickleball",
+    "raw_activity_type": "pickleball",
+    "raw_type": "pickleball",
+    "start_date_local": "2026-04-12T09:29:39",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
