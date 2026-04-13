@@ -9537,5 +9537,31 @@
     "start_date_local": "2026-04-12T09:29:39",
     "type": "Pickleball",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22509435780",
+    "moving_time": 1015.3699951171875,
+    "name": "RP D1",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-04-13T18:28:12",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 1660.18994140625,
+    "elevation_gain": 0.0,
+    "id": "22511006449",
+    "moving_time": 1360.0,
+    "name": "Singapore Pickleball",
+    "raw_activity_type": "pickleball",
+    "raw_type": "pickleball",
+    "start_date_local": "2026-04-13T20:21:22",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
