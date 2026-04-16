@@ -9589,5 +9589,18 @@
     "start_date_local": "2026-04-15T22:20:48",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 1723.5799560546875,
+    "elevation_gain": 7.0,
+    "id": "22544896547",
+    "moving_time": 1325.0,
+    "name": "Singapore Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-04-16T17:33:14",
+    "type": "Walk",
+    "year": 2026
   }
 ]
