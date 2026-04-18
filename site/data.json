@@ -5179,6 +5179,27 @@
       "subtype": "walking",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 14,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 15,
+      "subtype": "pickleball",
+      "type": "Pickleball",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 16,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10975,6 +10996,15 @@
           "distance": 1660.18994140625,
           "elevation_gain": 0.0,
           "moving_time": 1360.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "22567447553"
+          ],
+          "count": 1,
+          "distance": 183.25999450683594,
+          "elevation_gain": 0.0,
+          "moving_time": 190.0
         }
       },
       "Ride": {
@@ -11392,6 +11422,16 @@
           "distance": 1723.5799560546875,
           "elevation_gain": 7.0,
           "moving_time": 1325.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "22566284056",
+            "22567996080"
+          ],
+          "count": 2,
+          "distance": 1832.8300170898438,
+          "elevation_gain": 28.0,
+          "moving_time": 1236.0
         }
       },
       "WeightTraining": {
@@ -11681,7 +11721,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T15:51:13.587824+00:00",
+  "generated_at": "2026-04-18T15:29:47.075821+00:00",
   "other_bucket": "OtherSports",
   "repo": "kennethztang/git-sweaty",
   "source": "garmin",

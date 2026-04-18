@@ -9602,5 +9602,44 @@
     "start_date_local": "2026-04-16T17:33:14",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 822.489990234375,
+    "elevation_gain": 10.0,
+    "id": "22566284056",
+    "moving_time": 595.0,
+    "name": "Singapore Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-04-18T14:48:20",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 183.25999450683594,
+    "elevation_gain": 0.0,
+    "id": "22567447553",
+    "moving_time": 190.0,
+    "name": "Pickleball",
+    "raw_activity_type": "pickleball",
+    "raw_type": "pickleball",
+    "start_date_local": "2026-04-18T15:02:15",
+    "type": "Pickleball",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 1010.3400268554688,
+    "elevation_gain": 18.0,
+    "id": "22567996080",
+    "moving_time": 641.0,
+    "name": "Singapore Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-04-18T16:58:46",
+    "type": "Walk",
+    "year": 2026
   }
 ]
