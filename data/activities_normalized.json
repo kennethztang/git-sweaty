@@ -9641,5 +9641,18 @@
     "start_date_local": "2026-04-18T16:58:46",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 1087.969970703125,
+    "elevation_gain": 0.0,
+    "id": "22577164303",
+    "moving_time": 1310.0,
+    "name": "Singapore Pickleball",
+    "raw_activity_type": "pickleball",
+    "raw_type": "pickleball",
+    "start_date_local": "2026-04-19T10:10:35",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
