@@ -9654,5 +9654,18 @@
     "start_date_local": "2026-04-19T10:10:35",
     "type": "Pickleball",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 1565.4300537109375,
+    "elevation_gain": 42.0,
+    "id": "22594060737",
+    "moving_time": 1258.0,
+    "name": "Singapore Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-04-20T21:55:30",
+    "type": "Walk",
+    "year": 2026
   }
 ]
