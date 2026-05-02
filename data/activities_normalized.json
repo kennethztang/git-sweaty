@@ -9680,5 +9680,18 @@
     "start_date_local": "2026-04-26T09:19:13",
     "type": "Pickleball",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 24534.990234375,
+    "elevation_gain": 40.0,
+    "id": "22733560597",
+    "moving_time": 2702.0,
+    "name": "Zwift - Pacer Group Ride with Miguel",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-05-02T14:26:18",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

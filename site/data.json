@@ -5221,6 +5221,13 @@
       "subtype": "pickleball",
       "type": "Pickleball",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 14,
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11413,6 +11420,15 @@
           "distance": 17141.5,
           "elevation_gain": 519.0,
           "moving_time": 2905.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "22733560597"
+          ],
+          "count": 1,
+          "distance": 24534.990234375,
+          "elevation_gain": 40.0,
+          "moving_time": 2702.0
         }
       },
       "Walk": {
@@ -11769,7 +11785,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:46:20.269791+00:00",
+  "generated_at": "2026-05-02T15:38:14.860430+00:00",
   "other_bucket": "OtherSports",
   "repo": "kennethztang/git-sweaty",
   "source": "garmin",
