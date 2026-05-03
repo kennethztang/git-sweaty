@@ -9693,5 +9693,18 @@
     "start_date_local": "2026-05-02T14:26:18",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 3767.3798828125,
+    "elevation_gain": 0.0,
+    "id": "22744403804",
+    "moving_time": 4477.0,
+    "name": "Singapore Pickleball",
+    "raw_activity_type": "pickleball",
+    "raw_type": "pickleball",
+    "start_date_local": "2026-05-03T09:45:54",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
