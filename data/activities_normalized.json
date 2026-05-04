@@ -9706,5 +9706,31 @@
     "start_date_local": "2026-05-03T09:45:54",
     "type": "Pickleball",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22756278263",
+    "moving_time": 1785.550048828125,
+    "name": "PPLU Push",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-05-04T10:52:07",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 7131.8798828125,
+    "elevation_gain": 15.0,
+    "id": "22760522394",
+    "moving_time": 2777.9729919433594,
+    "name": "Singapore Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-04T20:04:38",
+    "type": "Run",
+    "year": 2026
   }
 ]
