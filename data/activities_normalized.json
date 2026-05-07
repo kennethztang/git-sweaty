@@ -9771,5 +9771,31 @@
     "start_date_local": "2026-05-06T19:42:52",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22792422128",
+    "moving_time": 1700.85400390625,
+    "name": "PPLU Legs",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-05-07T11:32:35",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 28142.560546875,
+    "elevation_gain": 490.0,
+    "id": "22796441230",
+    "moving_time": 3706.0,
+    "name": "Zwift - JOIN: Tempo steigerung",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-05-07T19:47:16",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
