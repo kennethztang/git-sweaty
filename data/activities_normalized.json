@@ -9797,5 +9797,31 @@
     "start_date_local": "2026-05-07T19:47:16",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22815180700",
+    "moving_time": 2083.18798828125,
+    "name": "PPLU Upper",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-05-09T11:13:01",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 1033.6500244140625,
+    "elevation_gain": 5.0,
+    "id": "22819397891",
+    "moving_time": 764.0,
+    "name": "Singapore Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-05-09T19:12:38",
+    "type": "Walk",
+    "year": 2026
   }
 ]
