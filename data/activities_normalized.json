@@ -9836,5 +9836,31 @@
     "start_date_local": "2026-05-11T20:16:44",
     "type": "Pickleball",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22851274729",
+    "moving_time": 2038.7509765625,
+    "name": "PPLU Push",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-05-12T14:18:52",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 28231.94921875,
+    "elevation_gain": 379.0,
+    "id": "22854433241",
+    "moving_time": 3535.0,
+    "name": "Zwift - JOIN: 5x 5 min strength short",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-05-12T20:05:09",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
