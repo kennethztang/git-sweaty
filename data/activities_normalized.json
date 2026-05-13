@@ -9862,5 +9862,18 @@
     "start_date_local": "2026-05-12T20:05:09",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22864957114",
+    "moving_time": 1808.093017578125,
+    "name": "PPLU Pull",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-05-13T17:37:38",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
