@@ -9875,5 +9875,31 @@
     "start_date_local": "2026-05-13T17:37:38",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22920487256",
+    "moving_time": 1901.530029296875,
+    "name": "PPLU Push",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-05-18T14:30:18",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 3615.239990234375,
+    "elevation_gain": 1.0,
+    "id": "22923806019",
+    "moving_time": 1385.3739929199219,
+    "name": "Singapore Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-18T20:24:17",
+    "type": "Run",
+    "year": 2026
   }
 ]
