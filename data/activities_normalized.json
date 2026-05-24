@@ -9966,5 +9966,18 @@
     "start_date_local": "2026-05-23T20:38:05",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 592.1900024414062,
+    "elevation_gain": 0.0,
+    "id": "22989896745",
+    "moving_time": 591.0,
+    "name": "Pickleball",
+    "raw_activity_type": "pickleball",
+    "raw_type": "pickleball",
+    "start_date_local": "2026-05-24T09:31:11",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
