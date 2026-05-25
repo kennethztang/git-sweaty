@@ -9979,5 +9979,18 @@
     "start_date_local": "2026-05-24T09:31:11",
     "type": "Pickleball",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23001681901",
+    "moving_time": 2272.0029296875,
+    "name": "PPLU Push",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-05-25T09:55:09",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
