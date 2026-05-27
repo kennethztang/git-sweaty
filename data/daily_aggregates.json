@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T17:51:26.462385+00:00",
+  "generated_at": "2026-05-27T17:51:19.994528+00:00",
   "years": {
     "2013": {
       "Run": {
@@ -5969,6 +5969,15 @@
           "distance": 6097.2900390625,
           "elevation_gain": 13.0,
           "moving_time": 2394.1669921875
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "23030174533"
+          ],
+          "count": 1,
+          "distance": 8501.669921875,
+          "elevation_gain": 18.0,
+          "moving_time": 3415.0599975585938
         }
       },
       "VirtualRide": {
@@ -6727,6 +6736,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1622.427978515625
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "23026881004"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1702.406005859375
         }
       },
       "Yoga": {
