@@ -10031,5 +10031,31 @@
     "start_date_local": "2026-05-27T18:09:23",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23050838324",
+    "moving_time": 1789.8499755859375,
+    "name": "PPLU Upper",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-05-29T08:53:34",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 32382.609375,
+    "elevation_gain": 187.0,
+    "id": "23056440519",
+    "moving_time": 3499.0,
+    "name": "Zwift - JOIN: 5x 3 min Vo2max",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-05-29T21:14:55",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
