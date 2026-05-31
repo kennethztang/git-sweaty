@@ -5431,6 +5431,13 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 9,
+      "subtype": "pickleball",
+      "type": "Pickleball",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11281,6 +11288,15 @@
           "distance": 592.1900024414062,
           "elevation_gain": 0.0,
           "moving_time": 591.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "23074194368"
+          ],
+          "count": 1,
+          "distance": 713.4199829101562,
+          "elevation_gain": 0.0,
+          "moving_time": 670.0
         }
       },
       "Ride": {
@@ -12249,7 +12265,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T15:58:30.072004+00:00",
+  "generated_at": "2026-05-31T15:59:33.671019+00:00",
   "other_bucket": "OtherSports",
   "repo": "kennethztang/git-sweaty",
   "source": "garmin",
