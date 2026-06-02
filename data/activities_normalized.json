@@ -10109,5 +10109,18 @@
     "start_date_local": "2026-06-01T19:59:55",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 4006.02001953125,
+    "elevation_gain": 9.0,
+    "id": "23102824940",
+    "moving_time": 1695.6330261230469,
+    "name": "Singapore Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-02T20:04:58",
+    "type": "Run",
+    "year": 2026
   }
 ]
