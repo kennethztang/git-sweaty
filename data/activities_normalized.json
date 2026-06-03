@@ -10122,5 +10122,18 @@
     "start_date_local": "2026-06-02T20:04:58",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23115400439",
+    "moving_time": 1613.18994140625,
+    "name": "PPLU Pull",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-06-03T19:55:08",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
