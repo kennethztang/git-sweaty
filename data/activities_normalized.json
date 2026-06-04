@@ -10135,5 +10135,31 @@
     "start_date_local": "2026-06-03T19:55:08",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23123452953",
+    "moving_time": 1713.875,
+    "name": "PPLU Legs",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-06-04T11:43:42",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 597.1599731445312,
+    "elevation_gain": 0.0,
+    "id": "23128520414",
+    "moving_time": 545.0,
+    "name": "Pickleball",
+    "raw_activity_type": "pickleball",
+    "raw_type": "pickleball",
+    "start_date_local": "2026-06-04T20:07:14",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
