@@ -10161,5 +10161,31 @@
     "start_date_local": "2026-06-04T20:07:14",
     "type": "Pickleball",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23137209894",
+    "moving_time": 2354.699951171875,
+    "name": "PPLU Upper",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-06-05T16:04:59",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 31417.109375,
+    "elevation_gain": 236.0,
+    "id": "23139336526",
+    "moving_time": 3620.0,
+    "name": "Zwift - JOIN: Intensive endurance",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-06-05T19:52:26",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
