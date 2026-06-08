@@ -5501,6 +5501,20 @@
       "subtype": "pickleball",
       "type": "Pickleball",
       "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 18,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 20,
+      "subtype": "pickleball",
+      "type": "Pickleball",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11378,6 +11392,15 @@
           "distance": 589.9600219726562,
           "elevation_gain": 0.0,
           "moving_time": 594.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "23175401578"
+          ],
+          "count": 1,
+          "distance": 386.4200134277344,
+          "elevation_gain": 0.0,
+          "moving_time": 374.0
         }
       },
       "Ride": {
@@ -12365,6 +12388,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2354.699951171875
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "23173766494"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1921.949951171875
         }
       },
       "Yoga": {
@@ -12409,7 +12441,7 @@
       }
     }
   },
-  "generated_at": "2026-06-07T16:06:25.839416+00:00",
+  "generated_at": "2026-06-08T17:43:18.040572+00:00",
   "other_bucket": "OtherSports",
   "repo": "kennethztang/git-sweaty",
   "source": "garmin",
