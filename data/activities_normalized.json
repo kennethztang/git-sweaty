@@ -10239,5 +10239,18 @@
     "start_date_local": "2026-06-09T11:48:16",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23195142257",
+    "moving_time": 1624.81005859375,
+    "name": "PPLU Legs",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-06-10T11:07:01",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
