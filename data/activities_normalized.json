@@ -10252,5 +10252,18 @@
     "start_date_local": "2026-06-10T11:07:01",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 40177.66015625,
+    "elevation_gain": 63.0,
+    "id": "23210877108",
+    "moving_time": 4298.0,
+    "name": "Zwift - JOIN: 2 sets 30-30s",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-06-11T18:54:26",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
