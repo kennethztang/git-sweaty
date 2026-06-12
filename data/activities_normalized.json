@@ -10265,5 +10265,31 @@
     "start_date_local": "2026-06-11T18:54:26",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23218664565",
+    "moving_time": 2292.068115234375,
+    "name": "PPLU Upper",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-06-12T11:04:20",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 7751.5498046875,
+    "elevation_gain": 20.0,
+    "id": "23221530092",
+    "moving_time": 2902.332992553711,
+    "name": "Singapore - JOIN Running - 3x 8 min threshol",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-12T18:16:46",
+    "type": "Run",
+    "year": 2026
   }
 ]
