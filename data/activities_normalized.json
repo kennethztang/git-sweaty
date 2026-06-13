@@ -10291,5 +10291,18 @@
     "start_date_local": "2026-06-12T18:16:46",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 352.92999267578125,
+    "elevation_gain": 0.0,
+    "id": "23232129714",
+    "moving_time": 392.0,
+    "name": "Pickleball",
+    "raw_activity_type": "pickleball",
+    "raw_type": "pickleball",
+    "start_date_local": "2026-06-13T16:25:00",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
