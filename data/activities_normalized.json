@@ -10304,5 +10304,18 @@
     "start_date_local": "2026-06-13T16:25:00",
     "type": "Pickleball",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 32050.76953125,
+    "elevation_gain": 444.0,
+    "id": "23243297252",
+    "moving_time": 4218.0,
+    "name": "Zwift - JOIN: 20x 2 min intensive endurance intervals",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-06-14T16:07:04",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
