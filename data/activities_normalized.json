@@ -10395,5 +10395,31 @@
     "start_date_local": "2026-06-23T11:30:05",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23359191483",
+    "moving_time": 1541.969970703125,
+    "name": "PPLU Legs",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-06-24T11:51:47",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 4548.0,
+    "elevation_gain": 0.0,
+    "id": "23363469564",
+    "moving_time": 1795.56298828125,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-06-24T19:15:26",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
