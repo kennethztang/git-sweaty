@@ -10460,5 +10460,18 @@
     "start_date_local": "2026-06-30T17:45:45",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 35098.109375,
+    "elevation_gain": 451.0,
+    "id": "23443594447",
+    "moving_time": 4276.0,
+    "name": "Zwift - JOIN: 12x 4 min intensive endurance intervals",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-07-01T22:43:43",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
