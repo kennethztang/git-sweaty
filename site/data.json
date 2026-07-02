@@ -5648,6 +5648,20 @@
       "subtype": "virtual_ride",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-07-02",
+      "hour": 10,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-02",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11718,6 +11732,15 @@
           "distance": 8226.3896484375,
           "elevation_gain": 34.0,
           "moving_time": 2931.9830017089844
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "23453334701"
+          ],
+          "count": 1,
+          "distance": 5831.759765625,
+          "elevation_gain": 10.0,
+          "moving_time": 2216.3959999978542
         }
       },
       "VirtualRide": {
@@ -12703,6 +12726,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1532.3709716796875
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "23448860689"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1748.0999755859375
         }
       },
       "Yoga": {
@@ -12747,7 +12779,7 @@
       }
     }
   },
-  "generated_at": "2026-07-01T17:06:21.650156+00:00",
+  "generated_at": "2026-07-02T16:44:14.731780+00:00",
   "other_bucket": "OtherSports",
   "repo": "kennethztang/git-sweaty",
   "source": "garmin",
