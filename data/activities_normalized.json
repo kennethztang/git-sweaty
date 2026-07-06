@@ -10538,5 +10538,18 @@
     "start_date_local": "2026-07-05T18:23:47",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 8436.7900390625,
+    "elevation_gain": 13.0,
+    "id": "23499483341",
+    "moving_time": 3214.8080139160156,
+    "name": "Singapore - JOIN Running - 30 min tempo bloc",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-06T21:55:43",
+    "type": "Run",
+    "year": 2026
   }
 ]
