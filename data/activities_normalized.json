@@ -10551,5 +10551,31 @@
     "start_date_local": "2026-07-06T21:55:43",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23505657553",
+    "moving_time": 1776.051025390625,
+    "name": "PPLU Pull",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-07-07T10:55:30",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 31341.7109375,
+    "elevation_gain": 223.0,
+    "id": "23509993413",
+    "moving_time": 3613.0,
+    "name": "Zwift - JOIN: Tempo steigerung",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-07-07T19:20:37",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
