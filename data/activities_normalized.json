@@ -10577,5 +10577,18 @@
     "start_date_local": "2026-07-07T19:20:37",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 44148.76171875,
+    "elevation_gain": 68.0,
+    "id": "23535083915",
+    "moving_time": 4604.0,
+    "name": "Zwift - JOIN: 10 min intensive endurance",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-07-09T19:18:02",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
