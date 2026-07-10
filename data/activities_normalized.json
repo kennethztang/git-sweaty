@@ -10590,5 +10590,31 @@
     "start_date_local": "2026-07-09T19:18:02",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23542802295",
+    "moving_time": 1450.905029296875,
+    "name": "PPLU Legs",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-07-10T11:34:45",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 7968.47021484375,
+    "elevation_gain": 26.0,
+    "id": "23546008893",
+    "moving_time": 2995.920998752117,
+    "name": "Singapore - JOIN Running - 5x 3 min Vo2max",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-10T18:17:47",
+    "type": "Run",
+    "year": 2026
   }
 ]
