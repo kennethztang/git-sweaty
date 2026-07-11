@@ -5725,6 +5725,13 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-07-11",
+      "hour": 14,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12871,6 +12878,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1450.905029296875
+        },
+        "2026-07-11": {
+          "activity_ids": [
+            "23555136885"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1903.5179443359375
         }
       },
       "Yoga": {
@@ -12915,7 +12931,7 @@
       }
     }
   },
-  "generated_at": "2026-07-10T16:49:39.770274+00:00",
+  "generated_at": "2026-07-11T15:44:33.135607+00:00",
   "other_bucket": "OtherSports",
   "repo": "kennethztang/git-sweaty",
   "source": "garmin",
