@@ -10629,5 +10629,18 @@
     "start_date_local": "2026-07-11T14:45:15",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 2725.1298828125,
+    "elevation_gain": 0.0,
+    "id": "23565209943",
+    "moving_time": 3313.0,
+    "name": "Singapore Pickleball",
+    "raw_activity_type": "pickleball",
+    "raw_type": "pickleball",
+    "start_date_local": "2026-07-12T09:25:00",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
